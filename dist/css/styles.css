@@ -5,7 +5,7 @@ body {
     align-items: center;
     align-content: center;
     height: 90vh;
-    font: 14px Roboto, sans-serif;
+    font: 18px Roboto, sans-serif;
     background: #f9f9f9;
     color: #616161;
 }
@@ -144,4 +144,8 @@ p{
 
 .kecil{
   font-size:0.7em;
+}
+
+.kecil-sub{
+  font-size:0.86em;
 }
