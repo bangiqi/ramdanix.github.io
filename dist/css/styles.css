@@ -42,7 +42,7 @@ a {
 .c-link--snapchat:hover::after  { background: #fbe00f }
 .c-link--linkedin:hover::after  { background: #3b5998 }
 .c-link--github:hover::after    { background: #424242 }
-.c-link--mail:hover::after    { background: #bd081c }
+.c-link--mail:hover::after      { background: #bd081c }
 .c-link--medium:hover::after    { background: limegreen }
 
 .c-link {
