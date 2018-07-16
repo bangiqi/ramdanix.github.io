@@ -108,16 +108,16 @@ a {
 }
 
 .Aligner-item {
-  max-width: 50%;
+  max-width: 60%;
 }
 
 .Media-figure {
   border-radius: 50%;
-  padding: 20px;
-  margin-right: 1em;
+  
+  
 }
 
-h1{
+h2{
   font-family: 'Raleway', sans-serif;
   color: #424242;
   padding: 0px;
@@ -125,9 +125,9 @@ h1{
 }
 
 p{
-  font-family: 'Roboto Slab', serif;
-  font-size:1.1em;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-size:16px;
+  font-weight: 200;
   line-height: 1.7em;
   color: #616161;
 }
@@ -147,5 +147,8 @@ p{
 }
 
 .kecil-sub{
-  font-size:0.86em;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size:14px;
+  font-weight: 400;
+  
 }
